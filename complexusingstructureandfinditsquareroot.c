@@ -19,4 +19,4 @@ struct complex c1 ={8,8};
  printf("%d,%d\n",ptr->real , ptr->img);
 
  return 0 ; 
-}x
+}
